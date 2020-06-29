@@ -82,6 +82,7 @@ ssl
 nbproject
 public/uploads/*
 !public/uploads/.gitkeep
+package-lock.json
 
 ############################
 # Node.js
@@ -108,6 +109,8 @@ coverage
 ############################
 
 .env
+.env.production
+.env.development
 exports
 .cache
 build
